@@ -9,9 +9,13 @@
 🚀 About Me
 
 🎓 BS Software Engineering student
+
 💡 Passionate about Artificial Intelligence and Machine Learning
+
 🛠️ Love building real-world applications — from management systems to intelligent tools
+
 🌱 Currently learning and exploring deeper into AI/ML concepts and frameworks
+
 📫 Reach me at: rameenrafiai2007@gmail.com
 
 🧰 Tech Stack
@@ -30,7 +34,12 @@ Show Image
 
 📌 Featured Projects
 
-ProjectDescription🚕 SmartRideSystemA Java-based ride management system built with OOP principles✈️ Airline Management SystemSystem to manage flights, bookings, and airline operations☕ Cafe Management SystemApplication to manage cafe orders, billing, and inventory
+ProjectDescription
+🚕SmartRideSystemA Java-based ride management system built with OOP principles
+
+✈️ Airline Management SystemSystem to manage flights, bookings, and airline operations
+
+☕ Cafe Management SystemApplication to manage cafe orders, billing, and inventory
 
 
 📊 GitHub Stats

@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rameenrafia2007&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameenrafia2007&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=rameenrafia2007&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">

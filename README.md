@@ -67,6 +67,19 @@
 - 🎖️ Beyond Prompting: Building Real AI Systems — GDGoC, Air University Islamabad (May 2026)
 ---
 
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🐍 Contribution Graph
 
 <p align="center">
@@ -75,17 +88,25 @@
 
 ---
 
-### 🤝 Connect With Me
-
+## 📫 CONNECT WITH ME
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafia-rameen-88260a344/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/rameenrafia2007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:rameenrafia2007@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafia-rameen-88260a344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameenrafia2007&color=blueviolet" alt="Profile views" />
+  <i>"From Logic to Learning — Engineering today, building intelligent systems for tomorrow."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rameenrafia2007&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
